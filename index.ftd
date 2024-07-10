@@ -41,7 +41,7 @@ cta-item2-link: /portfolio/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
+title: Hey!
 link: https://github.com/somaniishika
 
 ;; -----------------------------------------------------
@@ -173,7 +173,7 @@ firstTitle: I'm
 secondTitle: Ishika Somani,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: web
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
